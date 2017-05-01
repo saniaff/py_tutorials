@@ -5,6 +5,7 @@ title= "xrange采用的迭代操作，更加高效"
 author= "towan"
 mtime= "16-4-23"
 """
+# xrange节省内存
 for i in xrange(6):
     print i
 
